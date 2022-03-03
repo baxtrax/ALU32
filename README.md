@@ -13,9 +13,9 @@ A ALU is the main "brain" of a CPU. It does the math behind its operations and d
 ### Testbench and verification
 The ALU is composed into one file. The testbench is also included to verify its functionality. 
 
-Flag Verification:
+#### Flag Verification:
 ![alt text](https://github.com/baxtrax/ALU32/blob/main/Images/ALU%20Testing%20Flags.png?raw=true)
-Opcode Verification
+#### Opcode Verification
 ![alt text](https://github.com/baxtrax/ALU32/blob/main/Images/ALU%20Testing%20Opcodes.png?raw=true)
 
 ## Running it
