@@ -5,7 +5,7 @@ A 32-bit ALU, includes status flags for Zero, Carry Out, Overflow, and Negative.
 ### The Top Level 1 Diagram
 A detailed diagram of the innerworkings of the 32-bit ALU is shown below in the diagram.
 
-![alt text](https://github.com/baxtrax/ALU32/blob/main/Images/ALU%20LVL%201.png?raw=true)
+![alt text](https://github.com/baxtrax/ALU32/blob/main/Images/ALU%20LVL%201.jpg?raw=true)
 
 
 A ALU is the main "brain" of a CPU. It does the math behind its operations and does many other things such as shifting data and basic evaluation of logic statements.
