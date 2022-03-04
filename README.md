@@ -16,7 +16,7 @@ The ALU is composed into one file. The testbench is also included to verify its 
 #### Flag Verification:
 ![alt text](https://github.com/baxtrax/ALU32/blob/main/Images/ALU%20Flags%20Sim.png?raw=true)
 #### Opcode Verification
-![alt text](https://github.com/baxtrax/ALU32/blob/main/Images/ALU%20Testing%20Opcodes.png?raw=true)
+![alt text](https://github.com/baxtrax/ALU32/blob/main/Images/ALU%20Opcode%20Sim.png?raw=true)
 
 ## Running it
 You can use these files with any type of simulation software. This project I personally used Quartus Prime and its simulation package that comes with named ModelSim(Now updated to QuestaSim) but any software that can run and simulate verilog code should do just fine as well.
